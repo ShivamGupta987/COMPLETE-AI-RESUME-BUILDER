@@ -103,7 +103,6 @@ Project Demo
 Visit the live demo: AI Resume Builder
 
 
-
 Future Enhancements
 
 Multi-language Support for global users.
@@ -134,8 +133,7 @@ Contact
 
 For any queries or suggestions, feel free to reach out:
 
-Email: your-email@example.com
-
+Email: sg804595@gmail.com
 GitHub: your-username
 
 Thank you for checking out the AI Resume Builder! Happy job hunting! 🚀
