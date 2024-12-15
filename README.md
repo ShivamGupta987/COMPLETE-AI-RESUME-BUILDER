@@ -1,6 +1,6 @@
 AI Resume Builder
 
-Welcome to the AI Resume Builder! This is a MERN stack application designed to simplify the resume creation process using the Gemini API for generating job-specific descriptions and crafting professional resumes. It provides options to download and share resumes seamlessly.
+Welcome to the AI Resume Builder! This MERN stack application streamlines the process of crafting professional resumes using the Gemini API for generating tailored job-specific descriptions. Users can seamlessly download and share resumes in optimized formats.
 
 Explore the live application here: AI Resume Builder
 
@@ -24,9 +24,9 @@ Share resumes instantly via shareable links.
 
 🔌 Customizable
 
-Users can edit and personalize resumes in real-time.
+Edit and personalize resumes in real-time.
 
-Preview resumes dynamically before downloading or sharing.
+Dynamically preview resumes before downloading or sharing.
 
 Tech Stack
 
@@ -72,7 +72,7 @@ npm install
 Create a .env file in the backend directory and add the following:
 
 PORT=5000
-MONGO_URI=your_mongodb_connection_string
+STRAPI_URI=your_mongodb_connection_string
 GEMINI_API_KEY=your_gemini_api_key
 
 4. Start the Application
@@ -94,13 +94,15 @@ Input Details: Users provide their personal details, professional experiences, e
 
 AI-Generated Content: The Gemini API fetches tailored job descriptions to enhance resume sections.
 
-Customization: Users can edit and preview the resume in real-time.
+Customization: Edit and preview resumes in real-time.
 
 Download & Share: Resumes can be downloaded as PDFs or shared via a link.
 
 Project Demo
 
 Visit the live demo: AI Resume Builder
+
+
 
 Future Enhancements
 
